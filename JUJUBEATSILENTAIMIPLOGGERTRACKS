@@ -9425,14 +9425,14 @@
 --MADEBY JUJUBEAT
 --MADEBY JUJUBEAT
 --MADEBY JUJUBEAT
---OK BYE LOVE YALL ALSO JUJU BEAT IS MY FAKE NAME LOLL USER NAME IS EXOTICPHAS3
+--OK BYE LOVE YALL ALSO JUJU BEAT IS MY FAKE NAME LOLL USER NAME IS EXOTICPHAS3--
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MajuNuko/SIll/main/MIKO.silentaim.gg/credsFuckedUrmom"))()
 DaHoodSettings.Prediction = 0.11225533
 Aiming.TargetPart = {"Head", "LeftHand", "RightHand", "LeftLowerArm", "RightLowerArm", "LeftUpperArm", "RightUpperArm", "LeftFoot", "LeftLowerLeg", "UpperTorso", "HumanoidRootPart", "LeftUpperLeg", "RightLowerLeg", "RightFoot", "LowerTorso"}
 Aiming.FOV = 35.55
 Aiming.FOVSides = 55
 Aiming.HitChance = 400
-Aiming.ShowFOV = true
+Aiming.ShowFOV = false
 
 getgenv().OldAimPart = "HumanoidRootPart"
 getgenv().AimPart = "HumanoidRootPart" -- For R15 Games: {UpperTorso, LowerTorso, HumanoidRootPart, Head} | For R6 Games: {Head, Torso, HumanoidRootPart}  
